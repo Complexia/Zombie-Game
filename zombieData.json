@@ -1,0 +1,25 @@
+{
+    "gridDimensions": {
+        "x" : 10,
+        "y" : 10
+    },
+    "initialZombiePosition": {
+        "x" : 2,
+        "y" : 1
+    },
+    "civillianPositions": {
+        "civillian1": {
+            "x" : 4,
+            "y" : 0
+        },
+        "civillian2": {
+            "x" : 3,
+            "y" : 2
+        },
+        "civillian3": {
+            "x" : 1,
+            "y" : 1
+        }
+    },
+    "zombieMoves": "RRRRULLLDDDDLLLRRUDDLLRRRRDDRUUUUUL"
+}
